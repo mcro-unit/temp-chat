@@ -44,7 +44,7 @@ A lightweight, real-time chat application where users can create and join tempor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mcro-unit/ephemchat.git
+   git clone https://github.com/mcro-unit/temp-chat.git
    cd ephemchat
    ```
 
@@ -167,7 +167,7 @@ git push [platform] main
 ## 🐛 Issues & Support
 
 If you encounter any issues or have questions:
-1. Check existing [GitHub Issues](https://github.com/mcro-unit/ephemchat/issues)
+1. Check existing [GitHub Issues](https://github.com/mcro-unit/temp-chat/issues)
 2. Create a new issue with detailed description
 3. Include steps to reproduce the problem
 
